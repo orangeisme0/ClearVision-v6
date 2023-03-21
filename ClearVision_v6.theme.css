@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://imgs.search.brave.com/7QhaxlXqvddcf17miOWofhxdeKTHbcP652Krcz_fm10/rs:fit:1200:808:1/g:ce/aHR0cHM6Ly92aWdu/ZXR0ZS53aWtpYS5u/b2Nvb2tpZS5uZXQv/ZXZhbmdlbGlvbi9p/bWFnZXMvNS81ZS9L/YXdvcnVfVGhlYXRy/aWNhbF9UcmFpbGVy/XyhSZWJ1aWxkXzMu/MCkucG5nL3Jldmlz/aW9uL2xhdGVzdD9j/Yj0yMDEyMTEwMjAx/MTk1MA); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/05/26/92852/0c7bdfe29f583e25f848ae2787f9ef45.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
